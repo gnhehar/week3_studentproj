@@ -3,7 +3,7 @@ package studentdetails;
 public class StudentDetails {
         
         public static void main(String[] args){
-        
+
         
         Student[] studentlist=new Student[3];
         
@@ -17,7 +17,7 @@ public class StudentDetails {
         
         Student s3 = new Student();
         s3.setAge(20);
-        s3.setName("sia");
+        s3.setName("bleh");
         
         studentlist[0]=s1;
         studentlist[1]=s2;
