@@ -26,6 +26,7 @@ public class StudentDetails {
         for(int i = 0; i<studentlist.length;i++){
         System.out.println(studentlist[i].getName()+" "+studentlist[i].getAge());
                 System.out.println("epsum lorem");
+                SYstem.out.println("tu vas un chien");
             }
         }
    
